@@ -1,0 +1,36 @@
+{
+    "FeatureExtraction_1": {
+        "describerPreset": "high",
+        "forceCpuExtraction": "0",
+        "describerTypes": [
+            "sift"
+        ]
+    },
+    "FeatureMatching_1": {
+        "guidedMatching": "1",
+        "describerTypes": [
+            "sift"
+        ]
+    },
+    "StructureFromMotion_1": {
+        "useLocalBA": "0",
+        "lockAllIntrinsics": "1"
+    },
+    "PrepareDenseScene_1": {
+        "outputFileType": "png"
+    },
+    "Meshing_1": {
+        "maxInputPoints": "50000000",
+        "pixSizeMarginFinalCoef": "50"
+    },
+    "Publish_1": {
+        "output": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/sfmOutput",
+        "inputFiles": [
+            "{Texturing_1.outputMesh}",
+            "{Texturing_1.outputMaterial}",
+            "{Texturing_1.outputTextures}",
+            "{StructureFromMotion_1.outputViewsAndPoses}",
+            "{PrepareDenseScene_1.outputUndistorted}"
+        ]
+    }
+}

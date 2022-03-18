@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<replay>
+ <pose>
+  <rMat order="columnMajor">-0.106311;-0.262467;-0.959067;0.874796;0.433828;-0.215695;0.472683;-0.861919;0.183484</rMat>
+  <rVec order="columnMajor">-0.605737;-1.34205;1.06601</rVec>
+  <tVec order="columnMajor">-2.86937;37.3871;97.2041</tVec>
+ </pose>
+ <visualizationMatrices>
+  <modelMat order="columnMajor">0.00141182;0.000478001;0.0281293;0;-0.00860104;0.0268235;-2.41229e-05;0;-0.0267864;-0.00858778;0.00149035;0;-0.00616192;0.0387253;0.248006;1;</modelMat>
+  <viewMat order="columnMajor">1;0;0;0;0;1;0;0;0;0;1;0;0;0;5;1;</viewMat>
+  <projMat order="columnMajor">1.43387;0;0;0;0;2.5491;0;0;-0.062301;0.0464953;1.002;1;0;0;-0.02002;0;</projMat>
+ </visualizationMatrices>
+ <meshPoints>
+  <point>-44.256828;-19.447786;17.458567</point>
+  <point>-44.550423;-16.025183;-19.763350</point>
+  <point>-35.883652;15.240396;-15.953415</point>
+  <point>-35.607349;13.930158;19.948141</point>
+  <point>-50.038647;-2.291011;1.085355</point>
+ </meshPoints>
+ <imagePoints>
+  <pixel>608.5714285714286;281.14285714285717</pixel>
+  <pixel>1361.142857142857;414.85714285714283</pixel>
+  <pixel>1069.7142857142858;826.2857142857143</pixel>
+  <pixel>543.4285714285714;629.1428571428571</pixel>
+  <pixel>970.2857142857143;500.57142857142856</pixel>
+ </imagePoints>
+ <meshIndices>945;37;601;1389;195;</meshIndices>
+ <pnpImage>image_0065.jpg</pnpImage>
+ <timeStamp>2020-08-05T17:56:34</timeStamp>
+ <sysInfo>
+  <hostName>MP4-TGI-084</hostName>
+  <productName>Ubuntu 18.04.4 LTS</productName>
+  <kernelVersion>5.4.0-42-generic</kernelVersion>
+  <cpuArch>x86_64</cpuArch>
+ </sysInfo>
+</replay>

@@ -1,0 +1,127 @@
+{
+    "version": [
+        "1",
+        "0",
+        "0"
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "1",
+            "width": "1920",
+            "height": "1080",
+            "type": "radial3",
+            "serialNumber": "",
+            "pxInitialFocalLength": "1388.10034",
+            "pxFocalLength": "1388.10034",
+            "principalPoint": [
+                "949.432556",
+                "494.041565"
+            ],
+            "distortionParams": [
+                "-0.11748255",
+                "0.036418464",
+                "-0.0101975268"
+            ]
+        }
+    ],
+    "views": [
+        {
+            "path": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/distortedMaskedImages\/image_0001_masked.png",
+            "viewId": "0",
+            "intrinsicId": "1",
+            "poseId": "0",
+            "metadata": ""
+        },
+        {
+            "path": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/distortedMaskedImages\/image_0002_masked.png",
+            "viewId": "1",
+            "intrinsicId": "1",
+            "poseId": "1",
+            "metadata": ""
+        },
+        {
+            "path": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/distortedMaskedImages\/image_0003_masked.png",
+            "viewId": "2",
+            "intrinsicId": "1",
+            "poseId": "2",
+            "metadata": ""
+        },
+        {
+            "path": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/distortedMaskedImages\/image_0004_masked.png",
+            "viewId": "3",
+            "intrinsicId": "1",
+            "poseId": "3",
+            "metadata": ""
+        },
+        {
+            "path": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/distortedMaskedImages\/image_0005_masked.png",
+            "viewId": "4",
+            "intrinsicId": "1",
+            "poseId": "4",
+            "metadata": ""
+        },
+        {
+            "path": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/distortedMaskedImages\/image_0064_masked.png",
+            "viewId": "5",
+            "intrinsicId": "1",
+            "poseId": "5",
+            "metadata": ""
+        },
+        {
+            "path": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/distortedMaskedImages\/image_0065_masked.png",
+            "viewId": "6",
+            "intrinsicId": "1",
+            "poseId": "6",
+            "metadata": ""
+        },
+        {
+            "path": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/distortedMaskedImages\/image_0066_masked.png",
+            "viewId": "7",
+            "intrinsicId": "1",
+            "poseId": "7",
+            "metadata": ""
+        },
+        {
+            "path": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/distortedMaskedImages\/image_0067_masked.png",
+            "viewId": "8",
+            "intrinsicId": "1",
+            "poseId": "8",
+            "metadata": ""
+        },
+        {
+            "path": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/distortedMaskedImages\/image_0068_masked.png",
+            "viewId": "9",
+            "intrinsicId": "1",
+            "poseId": "9",
+            "metadata": ""
+        },
+        {
+            "path": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/distortedMaskedImages\/image_0069_masked.png",
+            "viewId": "10",
+            "intrinsicId": "1",
+            "poseId": "10",
+            "metadata": ""
+        },
+        {
+            "path": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/distortedMaskedImages\/image_0070_masked.png",
+            "viewId": "11",
+            "intrinsicId": "1",
+            "poseId": "11",
+            "metadata": ""
+        },
+        {
+            "path": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/distortedMaskedImages\/image_0071_masked.png",
+            "viewId": "12",
+            "intrinsicId": "1",
+            "poseId": "12",
+            "metadata": ""
+        },
+        {
+            "path": "\/home\/alcov\/Data\/testTRE\/20200804A\/intraopProcessed\/registration\/reconstruction\/rec008cal001r002\/distortedMaskedImages\/image_0072_masked.png",
+            "viewId": "13",
+            "intrinsicId": "1",
+            "poseId": "13",
+            "metadata": ""
+        }
+    ]
+}
